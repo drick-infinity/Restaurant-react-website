@@ -24,7 +24,7 @@ const scroll = (direction) => {
     <div className='app__gallery-content'>
         <SubHeading title="instagram"/>
         <h1 className='headtext__cormorant'>Photo Gallery</h1>
-        <p className='p__opensans' style={{color:"#AAA", marginTop:'2rem'}}>fesfkdodskf fdg fdgdf grogorg okgerg orkgregoergkorkg rgorgor grgoregk rgroekgeo kfdsl gkoregkorkefg egkroegkor goregfoergkreog eorkgoergoe goergrgro gregorekgreo gregoergroeg re</p>
+        <p className='p__opensans' style={{color:"#AAA", marginTop:'2rem'}}>fesfkdodskf fdg fdgdf grogorg okgerg orkgregoergkorkg rgorgor grgoregk rgroekgeo kfdsl</p>
     <button type='button' className='custom__button'>View More</button>
     </div>
     <div className='app__gallery-images'>
