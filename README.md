@@ -79,9 +79,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <div align="center">
-<img src="projects.png" align="center" height="600" width="1000" />
+<img src="reastaurant-react.png" align="center" height="600" width="1000" />
 </div>  
-
+<div align="center">
+<img src="restaurant.png" align="center" height="600" width="1000" />
+</div> 
 
 <br/>
 <br/>
@@ -97,7 +99,7 @@ Currently, two official plugins are available:
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-- This is my Portfolio website
+- This is my Restaurnat website
 Used Tech Stack is 
 React.js,HTML,css,javascript jquery or😃✌️  
   
